@@ -50,7 +50,7 @@ minishop-cart/
 
 
 ```
-   git clone https://github.com/khdxsohee/minishop-cart-sidebar-ui.git
+   git clone https://github.com/farhan-swe/minishop-cart-sidebar-ui.git
 ```
 
 
@@ -76,10 +76,10 @@ This project is licensed under the MIT License.
 - Feel free to fork and enhance the project. 🌱
 
 ---
-Designed with ❤️ by khdxsohee
+Designed with ❤️ by farhan-swe
 
 ---
 
 ## 13\. Author Information
 
-  * **Created by:** khdxsohee
+  * **Created by:** farhan-swe
